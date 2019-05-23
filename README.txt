@@ -1,1 +1,1 @@
-#bus simulation homewrok for OS
+bus simulation homewrok for OS
